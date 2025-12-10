@@ -6,7 +6,7 @@ All detailed explanations are organized into separate topic folders.
 
 ## 📌 Topics Covered
 - **IAM** – users, groups, roles, policies  
-- **EC2** – instances, AMIs, security groups, key pairs  
+- **EC2** – instances, AMIs, security groups, key pairs ,load balancer 
 - *(More topics will be added as I progress)*
 
 ## 📁 Repository Structure
